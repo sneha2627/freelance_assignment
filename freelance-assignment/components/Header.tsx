@@ -36,6 +36,7 @@ export default function Header() {
             justifyContent: 'space-between',
             height: '60px',
           }}
+          
         >
           {/* Left Section: Hamburger + Title */}
           <div style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>

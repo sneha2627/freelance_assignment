@@ -10,6 +10,7 @@ export default function Footer() {
     position: "relative",
     bottom: 0,
     width: "100%",
+    
   };
 
   return (
