@@ -25,6 +25,7 @@ export default function AboutPage() {
         </ol>
       </div>
       
+      
       <div style={{
         backgroundColor: '#f0f0f0',
         padding: '20px',

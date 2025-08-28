@@ -48,10 +48,11 @@ export default function ThemeToggle() {
     width: '20px',
     height: '20px',
     backgroundColor: '#fff',
-    borderRadius: '50%',
+    borderRadius: '49%',
     transition: 'left 0.3s',
     boxShadow: '0 2px 4px rgba(0,0,0,0.2)',
   };
+
 
   return (
     <button
